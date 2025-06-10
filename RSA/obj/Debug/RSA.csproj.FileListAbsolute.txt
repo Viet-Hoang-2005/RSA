@@ -2,9 +2,11 @@ C:\Users\Tnvho\OneDrive\Project\RSA\RSA\bin\Debug\RSA.exe.config
 C:\Users\Tnvho\OneDrive\Project\RSA\RSA\bin\Debug\RSA.exe
 C:\Users\Tnvho\OneDrive\Project\RSA\RSA\bin\Debug\RSA.pdb
 C:\Users\Tnvho\OneDrive\Project\RSA\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
-C:\Users\Tnvho\OneDrive\Project\RSA\RSA\obj\Debug\RSA.Form1.resources
 C:\Users\Tnvho\OneDrive\Project\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
 C:\Users\Tnvho\OneDrive\Project\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
 C:\Users\Tnvho\OneDrive\Project\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
 C:\Users\Tnvho\OneDrive\Project\RSA\RSA\obj\Debug\RSA.exe
 C:\Users\Tnvho\OneDrive\Project\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\Tnvho\OneDrive\Project\RSA\RSA\bin\Debug\Guna.UI2.dll
+C:\Users\Tnvho\OneDrive\Project\RSA\RSA\obj\Debug\RSA.RSA.resources
+C:\Users\Tnvho\OneDrive\Project\RSA\RSA\obj\Debug\RSA.csproj.Up2Date
