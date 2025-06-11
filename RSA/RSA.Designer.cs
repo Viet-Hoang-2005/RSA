@@ -449,10 +449,10 @@
             // label01
             // 
             this.label01.AutoSize = true;
-            this.label01.Font = new System.Drawing.Font("Segoe UI", 13.8F);
-            this.label01.Location = new System.Drawing.Point(536, 21);
+            this.label01.Font = new System.Drawing.Font("Segoe UI", 16F);
+            this.label01.Location = new System.Drawing.Point(538, 9);
             this.label01.Name = "label01";
-            this.label01.Size = new System.Drawing.Size(55, 31);
+            this.label01.Size = new System.Drawing.Size(64, 37);
             this.label01.TabIndex = 17;
             this.label01.Text = "RSA";
             // 

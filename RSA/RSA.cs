@@ -9,6 +9,7 @@ using System.Linq;
 using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.UI;
 using System.Windows.Forms;
 
 namespace RSA
@@ -89,7 +90,7 @@ namespace RSA
             List<int> c = new List<int>();
             foreach (int x in m)
             {
-                BigInteger encrypted = BigInteger.ModPow(x, E, n);
+                BigInteger encrypted = BigInteger.ModPow(x, int.Parse(tbPublicKey.Text), int.Parse(tbN.Text));
                 c.Add((int)encrypted);
             }
             return c;
@@ -100,7 +101,7 @@ namespace RSA
             List<int> p = new List<int>();
             foreach (int x in m)
             {
-                BigInteger decrypted = BigInteger.ModPow(x, d, n);
+                BigInteger decrypted = BigInteger.ModPow(x, int.Parse(tbPrivateKey.Text), int.Parse(tbN.Text));
                 p.Add((int)decrypted);
             }
             return p;
